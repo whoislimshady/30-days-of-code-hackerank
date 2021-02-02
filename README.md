@@ -1,2 +1,3 @@
-# hashtable
-this is a example of a most important data structure and algorithm so use it d
+data structures and algo
+these are my code of ds and algo use if you need
+
